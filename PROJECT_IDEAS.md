@@ -12,3 +12,7 @@
     - record and play back your dreams
 - mind-controlled go-kart (Sayan)
 - mind-controlled smash (Sayan)
+- Learning Assistant
+    -Real time question answering
+    -Track user’s understanding on certain topics
+    -Report user's performance
